@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I am a college student, currently studying at College of Engineering and Technology, Chengdu University of Technology. 
+* I like listening to music, drawing, and writing code.
